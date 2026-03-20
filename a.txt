@@ -3,3 +3,6 @@ Java
 C++
 JavaScript
 PHP
+CSS
+HTML
+React
